@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Meteo Trentino - Web Service - Help</title>
+    <meta charset="utf-8" />
+    <style>
+        body {
+            background-color: antiquewhite;
+        }
+
+        table {
+            width: 80%;
+        }
+
+        table,
+        th,
+        td {
+            border: 1px dotted black;
+        }
+
+        th {
+            background-color: orange;
+            padding: 5px;
+        }
+
+        tr {
+            height: 32px;
+        }
+
+        td {
+            background-color: lightyellow;
+            padding: 5px;
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        .label {
+            padding-right: 15px;
+            text-align: right;
+            background-color: lightsteelblue;
+        }
+    </style>
+</head>
+
+<body>
+    <center>
+        <h1>Meteo Trentino Web Service - Help</h1>
+        <h3>http://localhost:8080</h3>
+        <hr />
+        <br />
+        <table>
+            <tr>
+                <th>Servizio</th>
+                <th>Descrizione del Servizio</th>
+                <th>Test</th>
+            </tr>
+
+            <tr>
+                <td class="label">/</td>
+                <td>Visualizza Help.html</td>
+                <td class="center"><a href="/">Test</a></td>
+            </tr>
+            <tr>
+                <td class="label">/pioggia</td>
+                <td>Dati pioggia</td>
+                <td class="center"><a href="/pioggia">Test</a></td>
+            </tr>
+            <tr>
+                <td class="label">/stazioni</td>
+                <td>Dati stazioni</td>
+                <td class="center"><a href="/stazioni">Test</a></td>
+            </tr>
+            <tr>
+                <td class="label">/temperatura</td>
+                <td>Dati temperatura</td>
+                <td class="center"><a href="/temperatura">Test</a></td>
+            </tr>
+            <tr>
+                <td class="label">/vento</td>
+                <td>Dati vento</td>
+                <td class="center"><a href="/vento">Test</a></td>
+            </tr>
+            <tr>
+                <td class="label">/vento/:id</td>
+                <td>Dati vento di una singola stazione</td>
+                <td class="center"><a href="/vento/T0147">Test</a></td>
+            </tr>
+            <tr>
+                <td class="label">/pioggia/:id</td>
+                <td>Dati pioggia di una singola stazione</td>
+                <td class="center"><a href="/pioggia/T0147">Test</a></td>
+            </tr>
+            <tr>
+                <td class="label">/temperatura/:id</td>
+                <td>Dati temperatura di una singola stazione</td>
+                <td class="center"><a href="/temperatura/T0147">Test</a></td>
+            </tr>
+
+        </table>
+    </center>
+</body>
+
+</html>

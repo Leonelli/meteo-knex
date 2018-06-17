@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Meteo Trentino</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Travel Weather Widget Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+	<script type="application/x-javascript">
+		addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); }
+	</script>
+	<script src="js/jquery-2.2.3.min.js"></script>
+	<script src="js/script.js"></script>
+	<link href="css/owl.carousel.css" rel="stylesheet" type="text/css" media="all">
+	<link rel="stylesheet" type="text/css" href="css/easy-responsive-tabs.css" />
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="//fonts.googleapis.com/css?family=Montserrat:500,700" rel="stylesheet">
+	<link href="css/stylesheet.css" rel="stylesheet">
+</head>
+
+<body>
+	<div class="main">
+		<h1>Meteo Trentino</h1>
+		<div class="w3_agile_main_grids">
+			<div id="parentHorizontalTab">
+				<ul class="resp-tabs-list hor_1">
+					<li style="font-size: 1vw">Trento</li>
+					<li style="font-size: 1vw">Rovereto</li>
+				</ul>
+				<div class="resp-tabs-container hor_1">
+					<div class="w3l_main_grid">
+						<div class="w3layouts_grid">
+							<div class="w3layouts_grid_left">
+								<div class="w3layouts_grid_left1">
+									<p>Temperatura</p>
+									<h3 class="temperaturaTN">
+										<canvas id="snow" width="40" height="40"> </canvas>
+									</h3>
+								</div>
+							</div>
+							<div class="w3layouts_grid_right">
+								<div id="owl-demo1" class="owl-carousel">
+									<div class="item">
+										<div class="w3_grid_right">
+											<p>Pioggia</p>
+											<h3 class="pioggiaTN">
+												<canvas id="rain" width="25" height="25"></canvas>
+											</h3>
+										</div>
+									</div>
+									<div class="item">
+										<div class="w3_grid_right">
+											<p>Vento</p>
+											<h3 class="ventoTN">
+												<canvas id="wind" width="25" height="25"> </canvas>
+											</h3>
+										</div>
+									</div>
+									<div class="item">
+										<div class="w3_grid_right">
+											<p>Grafici</p>
+											<a href="graficiTrento.html">
+												<img src="images/grafico.svg" alt="Logo" width="40" height="40">
+											</a>
+											<!--<a type="button" href="graficiTrento.html" class="btn btn-grafico">Mostra</a>-->
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="clear"> </div>
+							<div class="w3layouts_grid_pos">
+								<p class="dataRV"></p>
+							</div>
+						</div>
+					</div>
+					<div class="agile_main_grid">
+						<div class="w3layouts_grid">
+							<div class="w3layouts_grid_left">
+								<div class="w3layouts_grid_left1">
+									<p>Temperatura</p>
+									<h3 class="temperaturaRV">
+										<canvas id="clear-day" width="40" height="40"> </canvas>
+									</h3>
+								</div>
+							</div>
+							<div class="w3layouts_grid_right">
+								<div id="owl-demo1" class="owl-carousel">
+									<div class="item">
+										<div class="w3_grid_right">
+											<p>Pioggia</p>
+											<h3 class="pioggiaRV">
+												<canvas id="sleet" width="25" height="25"></canvas>
+											</h3>
+										</div>
+									</div>
+									<div class="item">
+										<div class="w3_grid_right">
+											<p>Vento</p>
+											<h3 class="ventoRV">
+												<canvas id="fog" width="25" height="25"> </canvas>
+											</h3>
+										</div>
+									</div>
+									<div class="item">
+										<div class="w3_grid_right">
+											<p>Grafici</p>
+											<a href="graficiRovereto.html">
+												<img src="images/grafico.svg" alt="Logo" width="40" height="40">
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="clear"> </div>
+							<div class="w3layouts_grid_pos">
+								<p class="dataRV"></p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script src="js/owl.carousel.js"></script>
+		<script>
+			$(document).ready(function () {
+				$("#owl-demo,#owl-demo1").owlCarousel({
+					autoPlay: 3000, //Set AutoPlay to 3 seconds
+					items: 3,
+					itemsDesktop: [640, 3],
+					itemsDesktopSmall: [414, 2],
+					navigation: true
+				});
+			});
+		</script>
+		<script src="js/skycons.js"></script>
+		<script>
+			var icons = new Skycons({ "color": "#fff" }),
+				list = [
+					"clear-night", "wind", "rain", "cloudy", "snow", "fog"
+				],
+				i;
+
+			for (i = list.length; i--;)
+				icons.set(list[i], list[i]);
+
+			icons.play();
+		</script>
+		<script>
+			var icons = new Skycons({ "color": "#fff" }),
+				list = [
+					"partly-cloudy-day",
+					"partly-cloudy-night", "clear-day", "sleet"
+				],
+				i;
+
+			for (i = list.length; i--;)
+				icons.set(list[i], list[i]);
+
+			icons.play();
+		</script>
+		<script src="js/easyResponsiveTabs.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function () {
+				//Horizontal Tab
+				$('#parentHorizontalTab').easyResponsiveTabs({
+					type: 'default', //Types: default, vertical, accordion
+					width: 'auto', //auto or any width like 600px
+					fit: true, // 100% fit in a container
+					tabidentify: 'hor_1', // The tab groups identifier
+					activate: function (event) { // Callback function if tab is switched
+						var $tab = $(this);
+						var $info = $('#nested-tabInfo');
+						var $name = $('span', $info);
+						$name.text($tab.text());
+						$info.show();
+					}
+				});
+			});
+		</script>
+	</div>
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+{
+  "name": "Meteo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "convert-csv-to-json": "0.0.11",
+    "cors": "^2.8.4",
+    "csvtojson": "^1.1.9",
+    "express": "^4.16.2",
+    "fast-xml-parser": "^2.7.4",
+    "knex": "^0.14.0",
+    "mysql": "^2.15.0",
+    "node-cron": "^1.2.1",
+    "prettyjson": "^1.2.1",
+    "treeize": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

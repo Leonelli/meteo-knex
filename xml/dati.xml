@@ -1,0 +1,3751 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datiOggi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.meteotrentino.it/">
+  <data>2017/12/12</data>
+  <tmin>0.9</tmin>
+  <tmax>9.8</tmax>
+  <rain>7.4000000000000012</rain>
+  <temperature>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T00:00:00</data>
+      <temperatura>-2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T00:15:00</data>
+      <temperatura>-2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T00:30:00</data>
+      <temperatura>-2.1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T00:45:00</data>
+      <temperatura>-2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T01:00:00</data>
+      <temperatura>-2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T01:15:00</data>
+      <temperatura>-2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T01:30:00</data>
+      <temperatura>-2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T01:45:00</data>
+      <temperatura>-2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T02:00:00</data>
+      <temperatura>-2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T02:15:00</data>
+      <temperatura>-2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T02:30:00</data>
+      <temperatura>-2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T02:45:00</data>
+      <temperatura>-2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T03:00:00</data>
+      <temperatura>-2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T03:15:00</data>
+      <temperatura>-1.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T03:30:00</data>
+      <temperatura>-1.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T03:45:00</data>
+      <temperatura>-1.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T04:00:00</data>
+      <temperatura>-1.8</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T04:15:00</data>
+      <temperatura>-1.7</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T04:30:00</data>
+      <temperatura>-1.6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T04:45:00</data>
+      <temperatura>-1.6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T05:00:00</data>
+      <temperatura>-1.6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T05:15:00</data>
+      <temperatura>-1.6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T05:30:00</data>
+      <temperatura>-1.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T05:45:00</data>
+      <temperatura>-1.3</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T06:00:00</data>
+      <temperatura>-1.2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T06:15:00</data>
+      <temperatura>-1.1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T06:30:00</data>
+      <temperatura>-1.1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T06:45:00</data>
+      <temperatura>-1.1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T07:00:00</data>
+      <temperatura>-1.1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T07:15:00</data>
+      <temperatura>-1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T07:30:00</data>
+      <temperatura>-0.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T07:45:00</data>
+      <temperatura>-0.8</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T08:00:00</data>
+      <temperatura>-0.7</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T08:15:00</data>
+      <temperatura>-0.6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T08:30:00</data>
+      <temperatura>-0.6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T08:45:00</data>
+      <temperatura>-0.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T09:00:00</data>
+      <temperatura>-0.4</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T09:15:00</data>
+      <temperatura>-0.3</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T09:30:00</data>
+      <temperatura>-0.2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T09:45:00</data>
+      <temperatura>-0.1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T10:00:00</data>
+      <temperatura>-0.2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T10:15:00</data>
+      <temperatura>-0.2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T10:30:00</data>
+      <temperatura>-0.2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T10:45:00</data>
+      <temperatura>-0.1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T11:00:00</data>
+      <temperatura>0</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T11:15:00</data>
+      <temperatura>0.1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T11:30:00</data>
+      <temperatura>0.3</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T11:45:00</data>
+      <temperatura>0.3</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T12:00:00</data>
+      <temperatura>0.2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T12:15:00</data>
+      <temperatura>0.2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T12:30:00</data>
+      <temperatura>0.2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T12:45:00</data>
+      <temperatura>0.3</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T13:00:00</data>
+      <temperatura>0.2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T13:15:00</data>
+      <temperatura>0.4</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T13:30:00</data>
+      <temperatura>0.4</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T13:45:00</data>
+      <temperatura>0.4</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T14:00:00</data>
+      <temperatura>0.4</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T14:15:00</data>
+      <temperatura>0.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T14:30:00</data>
+      <temperatura>0.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T14:45:00</data>
+      <temperatura>0.4</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T15:00:00</data>
+      <temperatura>0.4</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T15:15:00</data>
+      <temperatura>0.4</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T15:30:00</data>
+      <temperatura>0.4</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T15:45:00</data>
+      <temperatura>0.4</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T16:00:00</data>
+      <temperatura>0.4</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T16:15:00</data>
+      <temperatura>0.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T16:30:00</data>
+      <temperatura>0.4</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T16:45:00</data>
+      <temperatura>0.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T17:00:00</data>
+      <temperatura>0.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T17:15:00</data>
+      <temperatura>0.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T17:30:00</data>
+      <temperatura>0.6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T17:45:00</data>
+      <temperatura>0.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T18:00:00</data>
+      <temperatura>0.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T18:15:00</data>
+      <temperatura>0.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T18:30:00</data>
+      <temperatura>0.6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T18:45:00</data>
+      <temperatura>0.6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T19:00:00</data>
+      <temperatura>0.6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T19:15:00</data>
+      <temperatura>0.6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T19:30:00</data>
+      <temperatura>0.7</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T19:45:00</data>
+      <temperatura>0.7</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T20:00:00</data>
+      <temperatura>0.8</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T20:15:00</data>
+      <temperatura>0.8</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T20:30:00</data>
+      <temperatura>0.8</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T20:45:00</data>
+      <temperatura>0.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T21:00:00</data>
+      <temperatura>0.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T21:15:00</data>
+      <temperatura>0.8</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T21:30:00</data>
+      <temperatura>0.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T21:45:00</data>
+      <temperatura>0.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T22:00:00</data>
+      <temperatura>0.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T22:15:00</data>
+      <temperatura>0.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T22:30:00</data>
+      <temperatura>1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T22:45:00</data>
+      <temperatura>0.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T23:00:00</data>
+      <temperatura>0.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T23:15:00</data>
+      <temperatura>0.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T23:30:00</data>
+      <temperatura>0.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-11T23:45:00</data>
+      <temperatura>0.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T00:00:00</data>
+      <temperatura>0.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T00:15:00</data>
+      <temperatura>1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T00:30:00</data>
+      <temperatura>1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T00:45:00</data>
+      <temperatura>1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T01:00:00</data>
+      <temperatura>1.1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T01:15:00</data>
+      <temperatura>1.2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T01:30:00</data>
+      <temperatura>1.2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T01:45:00</data>
+      <temperatura>1.4</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T02:00:00</data>
+      <temperatura>1.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T02:15:00</data>
+      <temperatura>1.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T02:30:00</data>
+      <temperatura>1.6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T02:45:00</data>
+      <temperatura>2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T03:00:00</data>
+      <temperatura>2.6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T03:15:00</data>
+      <temperatura>3.4</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T03:30:00</data>
+      <temperatura>3.7</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T03:45:00</data>
+      <temperatura>4.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T04:00:00</data>
+      <temperatura>5.2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T04:15:00</data>
+      <temperatura>5.6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T04:30:00</data>
+      <temperatura>5.7</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T04:45:00</data>
+      <temperatura>5.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T05:00:00</data>
+      <temperatura>5.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T05:15:00</data>
+      <temperatura>5.7</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T05:30:00</data>
+      <temperatura>5.7</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T05:45:00</data>
+      <temperatura>6.1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T06:00:00</data>
+      <temperatura>5.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T06:15:00</data>
+      <temperatura>6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T06:30:00</data>
+      <temperatura>5.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T06:45:00</data>
+      <temperatura>6.2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T07:00:00</data>
+      <temperatura>6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T07:15:00</data>
+      <temperatura>6.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T07:30:00</data>
+      <temperatura>7.3</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T07:45:00</data>
+      <temperatura>7.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T08:00:00</data>
+      <temperatura>7.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T08:15:00</data>
+      <temperatura>8.3</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T08:30:00</data>
+      <temperatura>8.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T08:45:00</data>
+      <temperatura>8.2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T09:00:00</data>
+      <temperatura>8.1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T09:15:00</data>
+      <temperatura>8.4</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T09:30:00</data>
+      <temperatura>8.1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T09:45:00</data>
+      <temperatura>6.6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T10:00:00</data>
+      <temperatura>5.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T10:15:00</data>
+      <temperatura>6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T10:30:00</data>
+      <temperatura>6.1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T10:45:00</data>
+      <temperatura>6.4</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T11:00:00</data>
+      <temperatura>6.4</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T11:15:00</data>
+      <temperatura>6.4</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T11:30:00</data>
+      <temperatura>6.6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T11:45:00</data>
+      <temperatura>7.4</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T12:00:00</data>
+      <temperatura>8</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T12:15:00</data>
+      <temperatura>8</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T12:30:00</data>
+      <temperatura>8.1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T12:45:00</data>
+      <temperatura>7.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T13:00:00</data>
+      <temperatura>7.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T13:15:00</data>
+      <temperatura>7.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T13:30:00</data>
+      <temperatura>7.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T13:45:00</data>
+      <temperatura>7.7</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T14:00:00</data>
+      <temperatura>7</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T14:15:00</data>
+      <temperatura>6.6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T14:30:00</data>
+      <temperatura>6.4</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T14:45:00</data>
+      <temperatura>6.6</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T15:00:00</data>
+      <temperatura>6.2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T15:15:00</data>
+      <temperatura>6.3</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T15:30:00</data>
+      <temperatura>6.3</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T15:45:00</data>
+      <temperatura>5.8</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T16:00:00</data>
+      <temperatura>5.7</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T16:15:00</data>
+      <temperatura>5.2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T16:30:00</data>
+      <temperatura>5.1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T16:45:00</data>
+      <temperatura>4.9</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T17:00:00</data>
+      <temperatura>5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T17:15:00</data>
+      <temperatura>5.1</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T17:30:00</data>
+      <temperatura>4.7</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T17:45:00</data>
+      <temperatura>4.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T18:00:00</data>
+      <temperatura>4.2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T18:15:00</data>
+      <temperatura>4.8</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T18:30:00</data>
+      <temperatura>4.7</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T18:45:00</data>
+      <temperatura>4.7</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T19:00:00</data>
+      <temperatura>4.2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T19:15:00</data>
+      <temperatura>4.3</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T19:30:00</data>
+      <temperatura>4.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T19:45:00</data>
+      <temperatura>4.5</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T20:00:00</data>
+      <temperatura>3.7</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T20:15:00</data>
+      <temperatura>4.2</temperatura>
+    </temperatura_aria>
+    <temperatura_aria UM="°C">
+      <data>2017-12-12T20:30:00</data>
+      <temperatura>4.3</temperatura>
+    </temperatura_aria>
+  </temperature>
+  <precipitazioni>
+    <precipitazione UM="mm">
+      <data>2017-12-11T00:00:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T00:15:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T00:30:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T00:45:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T01:00:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T01:15:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T01:30:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T01:45:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T02:00:00</data>
+      <pioggia>0.8</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T02:15:00</data>
+      <pioggia>0.8</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T02:30:00</data>
+      <pioggia>0.8</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T02:45:00</data>
+      <pioggia>0.8</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T03:00:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T03:15:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T03:30:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T03:45:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T04:00:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T04:15:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T04:30:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T04:45:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T05:00:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T05:15:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T05:30:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T05:45:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T06:00:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T06:15:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T06:30:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T06:45:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T07:00:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T07:15:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T07:30:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T07:45:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T08:00:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T08:15:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T08:30:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T08:45:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T09:00:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T09:15:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T09:30:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T09:45:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T10:00:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T10:15:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T10:30:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T10:45:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T11:00:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T11:15:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T11:30:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T11:45:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T12:00:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T12:15:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T12:30:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T12:45:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T13:00:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T13:15:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T13:30:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T13:45:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T14:00:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T14:15:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T14:30:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T14:45:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T15:00:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T15:15:00</data>
+      <pioggia>0.8</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T15:30:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T15:45:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T16:00:00</data>
+      <pioggia>0.8</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T16:15:00</data>
+      <pioggia>1</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T16:30:00</data>
+      <pioggia>1</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T16:45:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T17:00:00</data>
+      <pioggia>0.8</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T17:15:00</data>
+      <pioggia>1.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T17:30:00</data>
+      <pioggia>1.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T17:45:00</data>
+      <pioggia>1</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T18:00:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T18:15:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T18:30:00</data>
+      <pioggia>0.8</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T18:45:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T19:00:00</data>
+      <pioggia>0.8</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T19:15:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T19:30:00</data>
+      <pioggia>1.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T19:45:00</data>
+      <pioggia>0.8</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T20:00:00</data>
+      <pioggia>1</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T20:15:00</data>
+      <pioggia>1.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T20:30:00</data>
+      <pioggia>1.8</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T20:45:00</data>
+      <pioggia>1</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T21:00:00</data>
+      <pioggia>1.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T21:15:00</data>
+      <pioggia>1.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T21:30:00</data>
+      <pioggia>0.8</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T21:45:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T22:00:00</data>
+      <pioggia>0.8</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T22:15:00</data>
+      <pioggia>0.8</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T22:30:00</data>
+      <pioggia>1.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T22:45:00</data>
+      <pioggia>1.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T23:00:00</data>
+      <pioggia>1.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T23:15:00</data>
+      <pioggia>1</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T23:30:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-11T23:45:00</data>
+      <pioggia>0.8</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T00:00:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T00:15:00</data>
+      <pioggia>0.8</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T00:30:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T00:45:00</data>
+      <pioggia>0.8</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T01:00:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T01:15:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T01:30:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T01:45:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T02:00:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T02:15:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T02:30:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T02:45:00</data>
+      <pioggia>0.6</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T03:00:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T03:15:00</data>
+      <pioggia>0.4</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T03:30:00</data>
+      <pioggia>0.2</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T03:45:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T04:00:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T04:15:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T04:30:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T04:45:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T05:00:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T05:15:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T05:30:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T05:45:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T06:00:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T06:15:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T06:30:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T06:45:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T07:00:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T07:15:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T07:30:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T07:45:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T08:00:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T08:15:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T08:30:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T08:45:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T09:00:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T09:15:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T09:30:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T09:45:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T10:00:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T10:15:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T10:30:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T10:45:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T11:00:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T11:15:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T11:30:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T11:45:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T12:00:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T12:15:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T12:30:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T12:45:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T13:00:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T13:15:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T13:30:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T13:45:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T14:00:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T14:15:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T14:30:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T14:45:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T15:00:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T15:15:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T15:30:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T15:45:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T16:00:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T16:15:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T16:30:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T16:45:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T17:00:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T17:15:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T17:30:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T17:45:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T18:00:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T18:15:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T18:30:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T18:45:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T19:00:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T19:15:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T19:30:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T19:45:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T20:00:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T20:15:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+    <precipitazione UM="mm">
+      <data>2017-12-12T20:30:00</data>
+      <pioggia>0</pioggia>
+    </precipitazione>
+  </precipitazioni>
+  <venti>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T00:00:00</data>
+      <v>0.6</v>
+      <d>171</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T00:15:00</data>
+      <v>0.6</v>
+      <d>13</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T00:30:00</data>
+      <v>0.6</v>
+      <d>328</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T00:45:00</data>
+      <v>0.6</v>
+      <d>256</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T01:00:00</data>
+      <v>0.8</v>
+      <d>302</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T01:15:00</data>
+      <v>0.7</v>
+      <d>6</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T01:30:00</data>
+      <v>0.9</v>
+      <d>314</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T01:45:00</data>
+      <v>0.7</v>
+      <d>357</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T02:00:00</data>
+      <v>1.1</v>
+      <d>18</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T02:15:00</data>
+      <v>1.1</v>
+      <d>336</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T02:30:00</data>
+      <v>0.9</v>
+      <d>41</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T02:45:00</data>
+      <v>1.4</v>
+      <d>346</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T03:00:00</data>
+      <v>0.8</v>
+      <d>345</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T03:15:00</data>
+      <v>1.3</v>
+      <d>322</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T03:30:00</data>
+      <v>1.3</v>
+      <d>4</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T03:45:00</data>
+      <v>1</v>
+      <d>351</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T04:00:00</data>
+      <v>1.5</v>
+      <d>19</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T04:15:00</data>
+      <v>0.9</v>
+      <d>34</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T04:30:00</data>
+      <v>1.3</v>
+      <d>348</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T04:45:00</data>
+      <v>1.5</v>
+      <d>5</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T05:00:00</data>
+      <v>1.3</v>
+      <d>284</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T05:15:00</data>
+      <v>1</v>
+      <d>235</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T05:30:00</data>
+      <v>0.8</v>
+      <d>311</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T05:45:00</data>
+      <v>0.9</v>
+      <d>302</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T06:00:00</data>
+      <v>1.2</v>
+      <d>338</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T06:15:00</data>
+      <v>1.1</v>
+      <d>157</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T06:30:00</data>
+      <v>1.4</v>
+      <d>289</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T06:45:00</data>
+      <v>1.3</v>
+      <d>332</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T07:00:00</data>
+      <v>1.2</v>
+      <d>328</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T07:15:00</data>
+      <v>1.6</v>
+      <d>328</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T07:30:00</data>
+      <v>1.1</v>
+      <d>337</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T07:45:00</data>
+      <v>1.2</v>
+      <d>317</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T08:00:00</data>
+      <v>1.1</v>
+      <d>327</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T08:15:00</data>
+      <v>0.9</v>
+      <d>321</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T08:30:00</data>
+      <v>1.3</v>
+      <d>338</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T08:45:00</data>
+      <v>1.1</v>
+      <d>332</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T09:00:00</data>
+      <v>1.7</v>
+      <d>0</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T09:15:00</data>
+      <v>1.4</v>
+      <d>324</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T09:30:00</data>
+      <v>1.1</v>
+      <d>353</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T09:45:00</data>
+      <v>1.3</v>
+      <d>315</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T10:00:00</data>
+      <v>1.3</v>
+      <d>331</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T10:15:00</data>
+      <v>0.6</v>
+      <d>263</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T10:30:00</data>
+      <v>1</v>
+      <d>3</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T10:45:00</data>
+      <v>1.6</v>
+      <d>15</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T11:00:00</data>
+      <v>1</v>
+      <d>347</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T11:15:00</data>
+      <v>1.5</v>
+      <d>356</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T11:30:00</data>
+      <v>1.6</v>
+      <d>32</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T11:45:00</data>
+      <v>1.6</v>
+      <d>43</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T12:00:00</data>
+      <v>0.4</v>
+      <d>271</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T12:15:00</data>
+      <v>0.6</v>
+      <d>223</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T12:30:00</data>
+      <v>0.6</v>
+      <d>294</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T12:45:00</data>
+      <v>0.5</v>
+      <d>184</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T13:00:00</data>
+      <v>0.2</v>
+      <d>278</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T13:30:00</data>
+      <v>0</v>
+      <d>310</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T14:00:00</data>
+      <v>0.2</v>
+      <d>305</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T14:15:00</data>
+      <v>0.1</v>
+      <d>320</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T14:30:00</data>
+      <v>0.4</v>
+      <d>281</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T14:45:00</data>
+      <v>0.3</v>
+      <d>359</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T15:00:00</data>
+      <v>0.4</v>
+      <d>281</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T15:15:00</data>
+      <v>0.5</v>
+      <d>187</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T15:30:00</data>
+      <v>0.4</v>
+      <d>233</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T15:45:00</data>
+      <v>0.3</v>
+      <d>285</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T16:00:00</data>
+      <v>0.3</v>
+      <d>329</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T16:30:00</data>
+      <v>0.4</v>
+      <d>328</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T16:45:00</data>
+      <v>0.4</v>
+      <d>21</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T17:00:00</data>
+      <v>0.2</v>
+      <d>186</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T17:15:00</data>
+      <v>0.3</v>
+      <d>113</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T17:30:00</data>
+      <v>0.5</v>
+      <d>297</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T17:45:00</data>
+      <v>0.3</v>
+      <d>121</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T18:00:00</data>
+      <v>0.2</v>
+      <d>256</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T18:15:00</data>
+      <v>0.9</v>
+      <d>167</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T18:30:00</data>
+      <v>0.6</v>
+      <d>171</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T18:45:00</data>
+      <v>0.8</v>
+      <d>240</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T19:00:00</data>
+      <v>0.4</v>
+      <d>193</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T19:15:00</data>
+      <v>0.4</v>
+      <d>166</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T19:30:00</data>
+      <v>0.5</v>
+      <d>160</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T19:45:00</data>
+      <v>0.5</v>
+      <d>154</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T20:00:00</data>
+      <v>0.5</v>
+      <d>157</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T20:15:00</data>
+      <v>0.6</v>
+      <d>197</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T20:30:00</data>
+      <v>1</v>
+      <d>157</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T20:45:00</data>
+      <v>0.2</v>
+      <d>202</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T21:00:00</data>
+      <v>0.3</v>
+      <d>249</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T21:15:00</data>
+      <v>0.3</v>
+      <d>186</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T21:30:00</data>
+      <v>0.5</v>
+      <d>22</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T21:45:00</data>
+      <v>1.1</v>
+      <d>298</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T22:00:00</data>
+      <v>0.9</v>
+      <d>232</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T22:15:00</data>
+      <v>0.6</v>
+      <d>190</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T22:30:00</data>
+      <v>0.9</v>
+      <d>359</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T22:45:00</data>
+      <v>0.6</v>
+      <d>322</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T23:00:00</data>
+      <v>0.4</v>
+      <d>127</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T23:15:00</data>
+      <v>0.3</v>
+      <d>136</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T23:30:00</data>
+      <v>0.4</v>
+      <d>273</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-11T23:45:00</data>
+      <v>0.5</v>
+      <d>290</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T00:00:00</data>
+      <v>0.5</v>
+      <d>60</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T00:15:00</data>
+      <v>0.7</v>
+      <d>182</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T00:30:00</data>
+      <v>0.3</v>
+      <d>358</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T00:45:00</data>
+      <v>0.5</v>
+      <d>41</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T01:00:00</data>
+      <v>0.6</v>
+      <d>185</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T01:15:00</data>
+      <v>0.6</v>
+      <d>142</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T01:30:00</data>
+      <v>0.5</v>
+      <d>189</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T01:45:00</data>
+      <v>0.4</v>
+      <d>10</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T02:00:00</data>
+      <v>0.4</v>
+      <d>307</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T02:15:00</data>
+      <v>0.5</v>
+      <d>320</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T02:30:00</data>
+      <v>0.5</v>
+      <d>195</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T02:45:00</data>
+      <v>0.4</v>
+      <d>121</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T03:00:00</data>
+      <v>0.5</v>
+      <d>53</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T03:15:00</data>
+      <v>0.4</v>
+      <d>61</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T03:30:00</data>
+      <v>0.4</v>
+      <d>68</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T03:45:00</data>
+      <v>0.5</v>
+      <d>85</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T04:00:00</data>
+      <v>0.5</v>
+      <d>59</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T04:15:00</data>
+      <v>0.9</v>
+      <d>77</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T04:30:00</data>
+      <v>0.8</v>
+      <d>79</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T04:45:00</data>
+      <v>0.8</v>
+      <d>94</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T05:00:00</data>
+      <v>0.9</v>
+      <d>126</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T05:15:00</data>
+      <v>0.9</v>
+      <d>71</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T05:30:00</data>
+      <v>0.7</v>
+      <d>114</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T05:45:00</data>
+      <v>0.8</v>
+      <d>97</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T06:00:00</data>
+      <v>0.9</v>
+      <d>101</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T06:15:00</data>
+      <v>0.6</v>
+      <d>136</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T06:30:00</data>
+      <v>0.9</v>
+      <d>132</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T06:45:00</data>
+      <v>0.9</v>
+      <d>131</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T07:00:00</data>
+      <v>1</v>
+      <d>141</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T07:15:00</data>
+      <v>1.1</v>
+      <d>147</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T07:30:00</data>
+      <v>1.5</v>
+      <d>155</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T07:45:00</data>
+      <v>1.6</v>
+      <d>148</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T08:00:00</data>
+      <v>1.6</v>
+      <d>154</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T08:15:00</data>
+      <v>2.1</v>
+      <d>152</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T08:30:00</data>
+      <v>2.2</v>
+      <d>148</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T08:45:00</data>
+      <v>1.9</v>
+      <d>156</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T09:00:00</data>
+      <v>2.1</v>
+      <d>142</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T09:15:00</data>
+      <v>2.1</v>
+      <d>140</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T09:30:00</data>
+      <v>1.3</v>
+      <d>177</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T09:45:00</data>
+      <v>0.6</v>
+      <d>23</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T10:00:00</data>
+      <v>0.5</v>
+      <d>63</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T10:15:00</data>
+      <v>0.5</v>
+      <d>53</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T10:30:00</data>
+      <v>0.4</v>
+      <d>81</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T10:45:00</data>
+      <v>0.3</v>
+      <d>90</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T11:00:00</data>
+      <v>0.2</v>
+      <d>65</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T11:15:00</data>
+      <v>0.4</v>
+      <d>50</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T11:30:00</data>
+      <v>0.2</v>
+      <d>55</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T11:45:00</data>
+      <v>0.9</v>
+      <d>23</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T12:00:00</data>
+      <v>0</v>
+      <d>65</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T12:15:00</data>
+      <v>0.3</v>
+      <d>173</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T12:30:00</data>
+      <v>0.5</v>
+      <d>168</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T12:45:00</data>
+      <v>0.3</v>
+      <d>295</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T13:15:00</data>
+      <v>0.2</v>
+      <d>69</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T13:30:00</data>
+      <v>0.6</v>
+      <d>134</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T13:45:00</data>
+      <v>0.7</v>
+      <d>104</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T14:00:00</data>
+      <v>0.3</v>
+      <d>60</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T14:15:00</data>
+      <v>0.4</v>
+      <d>58</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T14:30:00</data>
+      <v>0.4</v>
+      <d>93</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T14:45:00</data>
+      <v>0.7</v>
+      <d>59</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T15:00:00</data>
+      <v>0.4</v>
+      <d>114</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T15:15:00</data>
+      <v>0.5</v>
+      <d>158</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T15:30:00</data>
+      <v>0.8</v>
+      <d>0</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T15:45:00</data>
+      <v>0.4</v>
+      <d>55</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T16:00:00</data>
+      <v>0.7</v>
+      <d>45</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T16:30:00</data>
+      <v>0.7</v>
+      <d>60</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T16:45:00</data>
+      <v>0.3</v>
+      <d>66</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T17:00:00</data>
+      <v>0.9</v>
+      <d>95</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T17:15:00</data>
+      <v>0.9</v>
+      <d>68</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T17:30:00</data>
+      <v>0.5</v>
+      <d>78</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T17:45:00</data>
+      <v>0.3</v>
+      <d>111</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T18:00:00</data>
+      <v>0.5</v>
+      <d>153</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T18:15:00</data>
+      <v>0.9</v>
+      <d>166</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T18:30:00</data>
+      <v>1.4</v>
+      <d>143</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T18:45:00</data>
+      <v>0.5</v>
+      <d>157</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T19:00:00</data>
+      <v>0.9</v>
+      <d>123</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T19:15:00</data>
+      <v>0.6</v>
+      <d>145</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T19:30:00</data>
+      <v>1</v>
+      <d>150</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T19:45:00</data>
+      <v>0.8</v>
+      <d>138</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T20:00:00</data>
+      <v>0.3</v>
+      <d>164</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T20:15:00</data>
+      <v>1.1</v>
+      <d>133</d>
+    </vento_al_suolo>
+    <vento_al_suolo UM_VV="m/s" UM_DV="gN">
+      <data>2017-12-12T20:30:00</data>
+      <v>1</v>
+      <d>77</d>
+    </vento_al_suolo>
+  </venti>
+  <radiazione>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T00:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T00:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T00:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T00:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T01:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T01:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T01:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T01:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T02:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T02:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T02:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T02:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T03:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T03:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T03:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T03:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T04:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T04:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T04:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T04:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T05:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T05:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T05:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T05:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T06:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T06:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T06:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T06:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T07:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T07:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T07:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T07:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T08:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T08:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T08:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T08:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T09:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T09:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T09:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T09:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T10:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T10:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T10:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T10:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T11:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T11:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T11:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T11:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T12:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T12:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T12:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T12:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T13:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T13:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T13:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T13:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T14:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T14:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T14:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T14:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T15:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T15:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T15:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T15:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T16:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T16:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T16:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T16:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T17:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T17:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T17:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T17:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T18:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T18:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T18:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T18:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T19:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T19:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T19:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T19:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T20:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T20:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T20:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T20:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T21:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T21:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T21:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T21:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T22:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T22:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T22:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T22:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T23:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T23:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T23:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-11T23:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T00:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T00:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T00:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T00:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T01:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T01:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T01:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T01:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T02:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T02:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T02:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T02:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T03:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T03:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T03:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T03:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T04:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T04:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T04:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T04:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T05:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T05:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T05:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T05:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T06:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T06:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T06:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T06:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T07:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T07:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T07:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T07:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T08:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T08:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T08:30:00</data>
+      <rsg>5</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T08:45:00</data>
+      <rsg>19</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T09:00:00</data>
+      <rsg>24</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T09:15:00</data>
+      <rsg>35</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T09:30:00</data>
+      <rsg>46</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T09:45:00</data>
+      <rsg>54</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T10:00:00</data>
+      <rsg>53</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T10:15:00</data>
+      <rsg>66</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T10:30:00</data>
+      <rsg>92</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T10:45:00</data>
+      <rsg>95</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T11:00:00</data>
+      <rsg>101</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T11:15:00</data>
+      <rsg>112</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T11:30:00</data>
+      <rsg>122</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T11:45:00</data>
+      <rsg>137</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T12:00:00</data>
+      <rsg>207</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T12:15:00</data>
+      <rsg>160</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T12:30:00</data>
+      <rsg>146</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T12:45:00</data>
+      <rsg>128</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T13:00:00</data>
+      <rsg>119</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T13:15:00</data>
+      <rsg>118</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T13:30:00</data>
+      <rsg>108</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T13:45:00</data>
+      <rsg>97</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T14:00:00</data>
+      <rsg>76</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T14:15:00</data>
+      <rsg>63</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T14:30:00</data>
+      <rsg>56</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T14:45:00</data>
+      <rsg>61</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T15:00:00</data>
+      <rsg>60</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T15:15:00</data>
+      <rsg>44</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T15:30:00</data>
+      <rsg>35</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T15:45:00</data>
+      <rsg>25</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T16:00:00</data>
+      <rsg>11</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T16:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T16:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T16:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T17:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T17:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T17:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T17:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T18:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T18:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T18:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T18:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T19:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T19:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T19:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T19:45:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T20:00:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T20:15:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+    <radiazioneglobale UM="W/mq">
+      <data>2017-12-12T20:30:00</data>
+      <rsg>0</rsg>
+    </radiazioneglobale>
+  </radiazione>
+  <umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T00:00:00</data>
+      <rh>93</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T00:15:00</data>
+      <rh>93</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T00:30:00</data>
+      <rh>93</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T00:45:00</data>
+      <rh>93</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T01:00:00</data>
+      <rh>93</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T01:15:00</data>
+      <rh>93</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T01:30:00</data>
+      <rh>93</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T01:45:00</data>
+      <rh>93</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T02:00:00</data>
+      <rh>93</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T02:15:00</data>
+      <rh>93</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T02:30:00</data>
+      <rh>94</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T02:45:00</data>
+      <rh>93</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T03:00:00</data>
+      <rh>93</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T03:15:00</data>
+      <rh>92</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T03:30:00</data>
+      <rh>92</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T03:45:00</data>
+      <rh>92</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T04:00:00</data>
+      <rh>92</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T04:15:00</data>
+      <rh>92</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T04:30:00</data>
+      <rh>91</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T04:45:00</data>
+      <rh>91</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T05:00:00</data>
+      <rh>91</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T05:15:00</data>
+      <rh>91</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T05:30:00</data>
+      <rh>92</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T05:45:00</data>
+      <rh>92</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T06:00:00</data>
+      <rh>92</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T06:15:00</data>
+      <rh>93</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T06:30:00</data>
+      <rh>92</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T06:45:00</data>
+      <rh>92</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T07:00:00</data>
+      <rh>92</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T07:15:00</data>
+      <rh>92</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T07:30:00</data>
+      <rh>92</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T07:45:00</data>
+      <rh>92</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T08:00:00</data>
+      <rh>91</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T08:15:00</data>
+      <rh>91</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T08:30:00</data>
+      <rh>91</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T08:45:00</data>
+      <rh>91</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T09:00:00</data>
+      <rh>91</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T09:15:00</data>
+      <rh>91</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T09:30:00</data>
+      <rh>91</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T09:45:00</data>
+      <rh>91</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T10:00:00</data>
+      <rh>92</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T10:15:00</data>
+      <rh>92</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T10:30:00</data>
+      <rh>91</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T10:45:00</data>
+      <rh>90</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T11:00:00</data>
+      <rh>91</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T11:15:00</data>
+      <rh>90</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T11:30:00</data>
+      <rh>89</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T11:45:00</data>
+      <rh>89</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T12:00:00</data>
+      <rh>91</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T12:15:00</data>
+      <rh>92</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T12:30:00</data>
+      <rh>93</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T12:45:00</data>
+      <rh>94</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T13:00:00</data>
+      <rh>94</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T13:15:00</data>
+      <rh>94</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T13:30:00</data>
+      <rh>94</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T13:45:00</data>
+      <rh>95</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T14:00:00</data>
+      <rh>95</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T14:15:00</data>
+      <rh>95</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T14:30:00</data>
+      <rh>96</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T14:45:00</data>
+      <rh>96</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T15:00:00</data>
+      <rh>96</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T15:15:00</data>
+      <rh>97</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T15:30:00</data>
+      <rh>97</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T15:45:00</data>
+      <rh>97</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T16:00:00</data>
+      <rh>97</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T16:15:00</data>
+      <rh>97</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T16:30:00</data>
+      <rh>97</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T16:45:00</data>
+      <rh>98</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T17:00:00</data>
+      <rh>98</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T17:15:00</data>
+      <rh>98</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T17:30:00</data>
+      <rh>98</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T17:45:00</data>
+      <rh>98</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T18:00:00</data>
+      <rh>98</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T18:15:00</data>
+      <rh>98</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T18:30:00</data>
+      <rh>98</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T18:45:00</data>
+      <rh>98</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T19:00:00</data>
+      <rh>98</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T19:15:00</data>
+      <rh>98</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T19:30:00</data>
+      <rh>98</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T19:45:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T20:00:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T20:15:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T20:30:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T20:45:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T21:00:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T21:15:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T21:30:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T21:45:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T22:00:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T22:15:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T22:30:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T22:45:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T23:00:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T23:15:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T23:30:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-11T23:45:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T00:00:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T00:15:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T00:30:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T00:45:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T01:00:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T01:15:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T01:30:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T01:45:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T02:00:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T02:15:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T02:30:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T02:45:00</data>
+      <rh>99</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T03:00:00</data>
+      <rh>100</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T03:15:00</data>
+      <rh>100</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T03:30:00</data>
+      <rh>100</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T03:45:00</data>
+      <rh>100</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T04:00:00</data>
+      <rh>100</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T04:15:00</data>
+      <rh>100</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T04:30:00</data>
+      <rh>100</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T04:45:00</data>
+      <rh>100</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T05:00:00</data>
+      <rh>100</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T05:15:00</data>
+      <rh>100</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T05:30:00</data>
+      <rh>100</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T05:45:00</data>
+      <rh>98</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T06:00:00</data>
+      <rh>95</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T06:15:00</data>
+      <rh>93</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T06:30:00</data>
+      <rh>91</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T06:45:00</data>
+      <rh>89</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T07:00:00</data>
+      <rh>89</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T07:15:00</data>
+      <rh>87</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T07:30:00</data>
+      <rh>84</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T07:45:00</data>
+      <rh>82</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T08:00:00</data>
+      <rh>79</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T08:15:00</data>
+      <rh>79</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T08:30:00</data>
+      <rh>76</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T08:45:00</data>
+      <rh>75</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T09:00:00</data>
+      <rh>75</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T09:15:00</data>
+      <rh>74</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T09:30:00</data>
+      <rh>74</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T09:45:00</data>
+      <rh>78</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T10:00:00</data>
+      <rh>81</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T10:15:00</data>
+      <rh>83</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T10:30:00</data>
+      <rh>83</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T10:45:00</data>
+      <rh>83</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T11:00:00</data>
+      <rh>83</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T11:15:00</data>
+      <rh>83</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T11:30:00</data>
+      <rh>84</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T11:45:00</data>
+      <rh>82</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T12:00:00</data>
+      <rh>80</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T12:15:00</data>
+      <rh>80</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T12:30:00</data>
+      <rh>80</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T12:45:00</data>
+      <rh>81</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T13:00:00</data>
+      <rh>81</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T13:15:00</data>
+      <rh>81</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T13:30:00</data>
+      <rh>81</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T13:45:00</data>
+      <rh>81</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T14:00:00</data>
+      <rh>82</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T14:15:00</data>
+      <rh>84</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T14:30:00</data>
+      <rh>85</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T14:45:00</data>
+      <rh>86</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T15:00:00</data>
+      <rh>85</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T15:15:00</data>
+      <rh>85</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T15:30:00</data>
+      <rh>86</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T15:45:00</data>
+      <rh>86</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T16:00:00</data>
+      <rh>87</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T16:15:00</data>
+      <rh>88</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T16:30:00</data>
+      <rh>88</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T16:45:00</data>
+      <rh>88</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T17:00:00</data>
+      <rh>90</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T17:15:00</data>
+      <rh>90</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T17:30:00</data>
+      <rh>90</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T17:45:00</data>
+      <rh>90</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T18:00:00</data>
+      <rh>91</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T18:15:00</data>
+      <rh>90</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T18:30:00</data>
+      <rh>89</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T18:45:00</data>
+      <rh>88</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T19:00:00</data>
+      <rh>90</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T19:15:00</data>
+      <rh>89</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T19:30:00</data>
+      <rh>88</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T19:45:00</data>
+      <rh>87</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T20:00:00</data>
+      <rh>89</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T20:15:00</data>
+      <rh>88</rh>
+    </umidita_relativa>
+    <umidita_relativa UM="%">
+      <data>2017-12-12T20:30:00</data>
+      <rh>88</rh>
+    </umidita_relativa>
+  </umidita_relativa>
+</datiOggi>
